@@ -1,0 +1,2 @@
+pythonwhois==2.4.3
+googleads==4.7.0
